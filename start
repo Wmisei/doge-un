@@ -7,4 +7,3 @@ npm start
 fi
 
 echo -e "${BLUE}[4/4] Installation Complete.${RESET}"
-or gh repo clone DogeLeader/DogeUnblocker-v4
